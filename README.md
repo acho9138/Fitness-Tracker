@@ -23,7 +23,7 @@ npm i
 
 ## Usage
 
-![image](./assets/screenshot.png)
+![image](./public/assets/screenshot.png)
 
 Run the following code in the Terminal or Git Bash:
 ```
